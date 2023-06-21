@@ -9,6 +9,7 @@ public class sample01 {
 		System.out.println("フライパンー！");
 		System.out.println("残念！フライパンはパンではありません");
 		System.out.println("正解は床に落としてしまったパンです");
+		System.out.println("Bonjour");
 	}
 
 }
