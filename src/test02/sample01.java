@@ -6,6 +6,7 @@ public class sample01 {
 		
 		System.out.println("こんにちは！是村です！");
 		System.out.println("パンはパンでも食べられないパンは？");
+		System.out.println("フライパンー！");
 	}
 
 }
