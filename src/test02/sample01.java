@@ -11,6 +11,7 @@ public class sample01 {
 		System.out.println("正解は床に落としてしまったパンです");
 		System.out.println("たしかに！難しかったー！！笑");
 		System.out.println("Bonjour");
+		System.out.println("hello!!");
 	}
 
 }
