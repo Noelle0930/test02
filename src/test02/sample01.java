@@ -12,6 +12,7 @@ public class sample01 {
 		System.out.println("たしかに！難しかったー！！笑");
 		System.out.println("Bonjour");
 		System.out.println("hello!!");
+		System.out.println("今日の気分は？");
 	}
 
 }
