@@ -13,6 +13,7 @@ public class sample01 {
 		System.out.println("Bonjour");
 		System.out.println("hello!!");
 		System.out.println("今日の気分は？");
+		System.out.println("雨やだなーって感じー！");
 	}
 
 }
